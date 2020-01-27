@@ -35,6 +35,7 @@
 @end
 
 @interface UIColor (chew)
++(id)systemWhiteColor;
 +(id)systemGreenColor;
 +(id)systemOrangeColor;
 +(id)systemYellowColor;
